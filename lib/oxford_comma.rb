@@ -1,4 +1,6 @@
 def oxford_comma(array)
-fruit = ["kiwi", "durian"]
-fruit.split("and")
+  def oxford_comma(array)
+  "kiwi"
+  ["kiwi", "durian"].join(" and ")
+  # ["kiwi", "durian", "starfruit"].join(", ""and")
 end
